@@ -1,1 +1,2 @@
-# GoF
+### the Gang of Four
+C++
